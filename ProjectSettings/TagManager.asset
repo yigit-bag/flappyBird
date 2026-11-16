@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - scoreArea
+  - deathArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2738690181
+    locked: 0
+  - name: pipe
+    uniqueID: 2790412251
+    locked: 0
+  - name: ground
+    uniqueID: 918040361
+    locked: 0
+  - name: score
+    uniqueID: 413088421
+    locked: 0
+  - name: bird
+    uniqueID: 1623228143
+    locked: 0
+  - name: menu
+    uniqueID: 3358579365
+    locked: 0
+  m_RenderingLayers:
+  - Default
